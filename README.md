@@ -1,2 +1,3 @@
-# learning-fastapi-and-nextjs-2
-This will be a quick project to better understand nextjs (frontend) and fastapi (backend)
+# Learning FastAPI and Next.js
+
+This will be a quick project to better understand Next.js (frontend) and FastAPI (backend)
